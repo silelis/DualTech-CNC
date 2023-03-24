@@ -1,0 +1,3 @@
+../src/gcode.c:42:6:gc_init	8	static
+../src/gcode.c:55:6:gc_sync_position	0	static
+../src/gcode.c:66:9:gc_execute_line	152	static

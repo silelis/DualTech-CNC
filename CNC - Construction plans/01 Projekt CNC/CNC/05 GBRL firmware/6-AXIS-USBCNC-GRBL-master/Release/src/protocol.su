@@ -1,0 +1,6 @@
+../src/protocol.c:192:6:protocol_auto_cycle_start	8	static
+../src/protocol.c:221:6:protocol_exec_rt_system	24	static
+../src/protocol.c:512:13:protocol_exec_rt_suspend	48	static
+../src/protocol.c:211:6:protocol_execute_realtime	8	static
+../src/protocol.c:41:6:protocol_main_loop	24	static
+../src/protocol.c:175:6:protocol_buffer_synchronize	8	static

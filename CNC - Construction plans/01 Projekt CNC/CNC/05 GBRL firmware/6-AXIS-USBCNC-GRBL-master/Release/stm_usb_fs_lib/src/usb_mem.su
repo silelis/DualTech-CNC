@@ -1,0 +1,2 @@
+../stm_usb_fs_lib/src/usb_mem.c:36:6:UserToPMABufferCopy	0	static
+../stm_usb_fs_lib/src/usb_mem.c:60:6:PMAToUserBufferCopy	0	static

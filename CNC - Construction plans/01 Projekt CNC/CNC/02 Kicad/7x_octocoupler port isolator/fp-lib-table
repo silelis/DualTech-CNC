@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name breakot_SileliS)(type KiCad)(uri ${KIPRJMOD}/libs_modules_3d/breakot_SileliS.pretty)(options "")(descr ""))
+)

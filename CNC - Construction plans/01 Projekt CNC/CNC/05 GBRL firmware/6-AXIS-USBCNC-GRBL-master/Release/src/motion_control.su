@@ -1,0 +1,6 @@
+../src/motion_control.c:32:6:mc_line	24	static
+../src/motion_control.c:87:6:mc_arc	96	static
+../src/motion_control.c:195:6:mc_dwell	8	static
+../src/motion_control.c:206:6:mc_homing_cycle	8	static
+../src/motion_control.c:272:9:mc_probe_cycle	24	static
+../src/motion_control.c:378:6:mc_reset	8	static

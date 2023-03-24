@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "FAN_speed_controller-rescue")(type "Legacy")(uri "${KIPRJMOD}/FAN_speed_controller-rescue.lib")(options "")(descr ""))
+)

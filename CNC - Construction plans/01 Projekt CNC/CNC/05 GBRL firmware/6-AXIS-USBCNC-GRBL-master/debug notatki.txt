@@ -1,0 +1,7 @@
+spindle_sync - ta funkcja jest uruchamiana jeśli zmieni się RPM
+
+
+we pliku spindle controll.c linia 217 
+TIM1->CCR1 = pwm_value;
+
+zapisuje wartość PWM'a do timera

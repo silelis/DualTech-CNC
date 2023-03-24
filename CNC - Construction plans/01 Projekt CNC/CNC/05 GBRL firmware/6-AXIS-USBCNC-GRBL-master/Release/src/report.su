@@ -1,0 +1,15 @@
+../src/report.c:33:6:report_util_setting_prefix	8	static
+../src/report.c:111:6:report_status_message	8	static
+../src/report.c:124:6:report_alarm_message	8	static
+../src/report.c:137:6:report_feedback_message	8	static
+../src/report.c:169:6:report_init_message	0	static
+../src/report.c:175:6:report_grbl_help	8	static
+../src/report.c:187:6:report_grbl_settings	48	static
+../src/report.c:235:6:report_probe_parameters	32	static
+../src/report.c:249:6:report_ngc_parameters	64	static
+../src/report.c:283:6:report_gcode_modes	8	static
+../src/report.c:362:6:report_startup_line	16	static
+../src/report.c:371:6:report_execute_startup_message	16	static
+../src/report.c:380:6:report_build_info	16	static
+../src/report.c:459:6:report_echo_line_received	8	static
+../src/report.c:471:6:report_realtime_status	72	static

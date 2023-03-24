@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "BluewPillVertical")(type "KiCad")(uri "${KIPRJMOD}/footprint/BluewPillVertical.pretty")(options "")(descr ""))
+  (lib (name "BluePillVertical")(type "KiCad")(uri "${KIPRJMOD}/footprint/BluePillVertical.pretty")(options "")(descr ""))
+)

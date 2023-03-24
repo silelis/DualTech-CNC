@@ -1,0 +1,2 @@
+../stm_usb_fs_lib/src/usb_int.c:42:6:CTR_LP	40	static
+../stm_usb_fs_lib/src/usb_int.c:152:6:CTR_HP	32	static

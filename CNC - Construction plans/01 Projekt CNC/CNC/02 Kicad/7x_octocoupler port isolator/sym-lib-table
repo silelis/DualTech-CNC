@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name breakout_SileliS)(type Legacy)(uri ${KIPRJMOD}/libs_modules_3d/breakouts_SilelIS/breakout_SileliS.lib)(options "")(descr ""))
+)
