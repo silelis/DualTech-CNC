@@ -1,0 +1,45 @@
+Wymyśl tekst reklamy promującej na platformie kickstarter projekt. projekt dotyczy sterownika maszyny CNC. Niech maszyna nazywa się "DualTech CNC". Największą zaletą maszyny jest współpraca z programem Mach3 i DrufelCNC oraz z open sourceowymi programami GRBL, takimi jak Universal gcode sender ,Lightburn, Candle. Mozesz dodać też inne. Opisz trochę aspekty techniczne mach3 i GRBL. Jest to unikatowe rozwiązanie w skali świata, ponieważ dotychczasowe rozwiązania nie pozwalają na jednoczesną współpracę jednej maszyny z tymi dwoma protokołami.
+Dodatkowo wielką zaletą "DualTech CNC" jest możliwość sterowania wieloma narzedziami. Między innymi jest to współpraca z wrzecionem  skrawającym w 4 osiach oraz możliwość podłączenia lasera.
+Podaj kilka najistotniejszych zalet wynikających z tego rozwiązania. Przedstaw w reklamie zastosowania takiego narzędzia, prace jakie można nim wykonać oraz to, że jest ono przydatne i hobbystycznie i w półprofesjonalnych zastosowaniach. Na koniec skoncentruj się na zaletach kosztowych tej maszyny. Jednej sterownik obsługujący Mach3 i GRBL to znaczne ograniczenia w wydatkach na wyposażenie warsztatu oraz na pozytywnych emocjach wynikających z użytkowania tak wszechstronnego urządzenia.
+
+Sterownik jest oparty o mikrokontrolery ARM. Prace jakie można na niej wykonywać to:
+- frezowanie: frezowanie, ciięcie w drewnie, wykonywanie części maszyn i urządzeń, prototypowanie płytek PCB, precyzyjne wiercenie, podtaczanie
+- laser: grawerowanie, cięcie, wwypalanie zdjęć, ozdabianie powierzchni, wykonywanie pudełek.
+
+zaletą rozwiązania jest to, że współpracuje ono z Windows, Linux, Mac OS. Na PC i Raspberry Pi. jedynym ograniczeniem jest tylko to, aby na danym systemie i platformie dało się zainstalować ulubione przez użytkowania oprogramowanie sterujące pracą maszyny.
+
+Zbudowany przeze mnie prototyp przeszedł testy, a na bazie przeprowadzonych doświadczeń i przeprowadzonych analiz FMEA poprawiono dokumentację projektu. Kolejnym krokiem będzie opracowanie końcowej dokumentacji i jej rozesłanie do klientów.
+
+Przetłumacz ten t4ekst reklamy od razu na język angielski.
+
+
+
+Introducing the DualTech CNC, the revolutionary CNC machine controller that will take your projects to the next level. With the ability to work seamlessly with Mach3, DrufelCNC, and open-source programs like GRBL, including Universal Gcode Sender, Lightburn, and Candle, this is a truly unique solution. The DualTech CNC allows for the simultaneous operation of these two protocols, something that has not been possible until now.
+
+One of the key advantages of the DualTech CNC is its ability to control multiple tools. This includes a spindle for cutting in 4 axes, as well as the option to connect a laser. Whether you're a hobbyist or a semi-professional, the possibilities are endless with this machine.
+
+Built on ARM microcontrollers, the DualTech CNC is versatile and easy to use. It can be used for milling, cutting wood, prototyping PCBs, precise drilling, and much more. With laser capabilities, it's perfect for engraving, cutting, etching photos, decorating surfaces, and creating boxes.
+
+The DualTech CNC is compatible with Windows, Linux, and Mac OS, as well as PC and Raspberry Pi. The only requirement is that your preferred software can be installed on the system and platform.
+
+Not only is this machine incredibly versatile, but it's also cost-effective. By using a single controller to operate Mach3 and GRBL, you can significantly reduce your workshop equipment costs. And the satisfaction of having such a versatile tool in your arsenal is priceless.
+
+Our prototype has undergone rigorous testing, and based on our analysis and FMEA, we have improved the project's documentation. The next step is to finalize the documentation and distribute it to our customers.
+
+Don't miss out on this game-changing technology. Invest in the DualTech CNC and take your projects to new heights.
+
+
+
+=====================================================
+czy możesz przetłumaczyć to na język angielksi . Tekst zostanie użyty na platformie kickstarter jako licencja. Możesz dokonać zmian stylistycznych jeśli będą potrzebne:  Dokumentacja techniczna DualTech CNC jest udostępniana na zasadach licencji, która reguluje sposób korzystania z niej przez klienta. W ramach tej licencji klient ma prawo do wielokrotnego wykorzystywania dokumentacji technicznej DualTech CNC wyłącznie do własnych celów. Właścicielem praw autorskie i intelektualne do niniejszej dokumentacji technicznej i wskazanych w nich rozwiazań technicznych należą do projektanta, Dawida Bańkowskiego. 
+
+Klient ma prawo do korzystania z zbudowanego urządzenia wyłączeni we własnych celach prywatnych i komercyjnych. Niniejsza licencja nie ogranicza praw klienta do korzystania z zbudowanego urządzenia zgodnie z obowiązującymi przepisami prawa, za wyjątkiem zbywania, sprzedaży, wypożyczania zbudowanego urządzenia, jak i jego częśći (poza ogólniedostępnymo detalami handlowymi) osobom / instytucjom trzecim.
+
+Klient nie ma prawa do sprzedaży, kopiowania, publicznego odtwarzania, ani innych form udostępniania dokumentacji technicznej DualTech CNC.
+
+Budowane urządzenie zasilane jest prądem elektrycznym, który może spowodować zagrożenie dla zdrowia lub / i życia konstruktora i użytkownika. Jakkolwiek projektant zaprojektował urządzenie z należytą starannością, zarówno pod względem funkcjonalnym, jak i bezpieczeństwa, nie zapewnie jego zgodności ze szczególnymi przepisami prawa dotyczącymi bezpieczeństwa i użytkowania tergo typu urządzeń w kraju klienta.
+Odpowiedzialością klienta jest ocenienie czy posiada wystarczającą wiedzę techniczną pozwalającą mu na bezpieczne zbudowanie oraz jego wykonanie w spoisób zapewniający bezpieczne użytkowanie urządzenia.
+Z tego powodu projektant nie ponosi odpowiedzialności za żadne szkody wynikające z budywy i użytkowania urządzenia, wyrządzone na zdrowiu i majątku klienta.
+
+
+Przetłumacz na angielski: Jest możliwym sprzeedaż dokumentacji technicznej do celów komercyjnej produkcji, ale nie stanowi to przedmiotu niniejszej zbiórki społecznościowej. Jeśli interesuje Cię to zagadnienie proszę skontaktuj się ze mną poprzez LinkedIn.
